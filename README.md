@@ -1,5 +1,6 @@
 # Numerical-Optimization-Books
 
+[![Downloads](https://img.shields.io/badge/downloads-128-brightgreen.svg)](https://codeload.github.com/ShiqinHuo/Numerical-Optimization-Books/zip/master)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/shiqinhuo)
 ![Stars](https://img.shields.io/github/stars/ShiqinHuo/Numerical-Optimization-Books.svg)
 [![Forks](https://img.shields.io/github/forks/ShiqinHuo/Numerical-Optimization-Books.svg)](https://github.com/ShiqinHuo/Numerical-Optimization-Books/README.md)
