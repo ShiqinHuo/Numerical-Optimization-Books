@@ -1,10 +1,10 @@
 # Numerical-Optimization-Books
-
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) 
 [![Downloads](https://img.shields.io/badge/downloads-128-brightgreen.svg)](https://codeload.github.com/ShiqinHuo/Numerical-Optimization-Books/zip/master)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/shiqinhuo)
 ![Stars](https://img.shields.io/github/stars/ShiqinHuo/Numerical-Optimization-Books.svg)
 [![Forks](https://img.shields.io/github/forks/ShiqinHuo/Numerical-Optimization-Books.svg)](https://github.com/ShiqinHuo/Numerical-Optimization-Books/README.md)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![LICENSE](https://img.shields.io/badge/license-NPL%20(The%20996%20Prohibited%20License)-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
 ### Aim
 This repo is created to opensource some electronic books involving numerical optimization</br>
