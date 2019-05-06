@@ -1,5 +1,10 @@
 # Numerical-Optimization-Books
 
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/shiqinhuo)
+![Stars](https://img.shields.io/github/stars/ShiqinHuo/Numerical-Optimization-Books.svg)
+[![Forks](https://img.shields.io/github/forks/ShiqinHuo/Numerical-Optimization-Books.svg)](https://github.com/ShiqinHuo/Numerical-Optimization-Books/README.md)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ### Aim
 This repo is created to opensource some electronic books involving numerical optimization</br>
 which I collected when I was struggling with the assignments of such a conceptual advanced</br>
